@@ -1,0 +1,26 @@
+[
+  {
+    "id": "42d048de-e61d-4965-a212-c5f5e5d8834b",
+    "amount": 1000.0,
+    "category": "Продукты",
+    "description": "Тестовый расход",
+    "date": "2025-04-09T09:28:14.473210",
+    "is_expense": true
+  },
+  {
+    "id": "74f5185d-62b4-4cc0-83e8-9817ac47bd29",
+    "amount": 500.0,
+    "category": "Транспорт",
+    "description": "Еще один расход",
+    "date": "2025-04-09T09:28:14.473782",
+    "is_expense": true
+  },
+  {
+    "id": "d5bea4de-2791-4b03-b8e7-b06900e1c862",
+    "amount": 5000.0,
+    "category": "Зарплата",
+    "description": "Тестовый доход",
+    "date": "2025-04-09T09:28:14.474212",
+    "is_expense": false
+  }
+]
